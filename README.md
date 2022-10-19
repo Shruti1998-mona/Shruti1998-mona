@@ -14,4 +14,5 @@
 - 📫 How to reach me:[shrutiverma9134@gmail.com](shrutiverma9134@gmail.com)
 - 😄 Pronouns: She/Her.
 
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shruti1998-mona&theme=radical)
+   [![@vermashruti's Holopin board](https://holopin.me/vermashruti)](https://holopin.io/@vermashruti)
+                                                                    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shruti1998-mona&theme=radical)
