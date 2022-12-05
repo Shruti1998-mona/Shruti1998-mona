@@ -1,7 +1,7 @@
 ###  **Hi,I'm Shruti** 👋
 
   
-  I'm a graduate student studying master's degree in inforamtion Technology and Computer application at Madan Mohan Malaviya University of Technology.
+  I'm a graduate student studying master's degree in information Technology and Computer application at Madan Mohan Malaviya University of Technology.
 - 🌱 I’m currently learning Madan Mohan Malaviya University Of Technology at Gorakhpur
 
   - Front-end development using **HTML**,**Javascript**,**CSS**,**Bootstrap**
